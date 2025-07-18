@@ -1,16 +1,37 @@
-## Hi there 👋
+# Saumik Sanjaykumar Sarkar
 
-<!--
-**SaumikSarkar/SaumikSarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Software Engineer** | Scalable Web Architectures | Frontend development
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/saumik-sarkar-6a2b3a112)
+[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=flat&logo=gmail)](mailto:sarkar.saumik15@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Expertise
+
+### Frontend Development
+- React, TypeScript
+- State Management (Redux, React Context API)
+- Accessibility (WCAG 2.1 AA Compliance)
+- Unit Testing (Jest, RTL)
+
+### Backend Development
+- Node.js, Express, RESTful API Design
+- Laravel (PHP)
+
+### Architecture
+- Microfrontend Architecture (Webpack Module Federation)
+- Monorepo Management (Turborepo, Rush)
+- Containerization (Docker, Kubernetes)
+- CI/CD Pipelines (GitHub Actions, Jenkins)
+
+## Professional Achievements
+- **Simpplr**: Led development of scalable monorepo architecture, improving code reuse by 60%
+- **Media.net**: Optimized publisher dashboards, reducing load time by 30%
+- **Accenture**: Recipient of ACE Award for excellence in client delivery
+
+<!-- ## Featured Projects -->
+
+## Development Principles
+- Clean Code Architecture
+- Test-Driven Development
+- Performance-First Approach
+- Documentation-Driven Development
