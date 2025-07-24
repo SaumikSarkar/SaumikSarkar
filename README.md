@@ -19,7 +19,7 @@
 
 ### Architecture
 - Microfrontend Architecture (Webpack Module Federation)
-- Monorepo Management (Turborepo, Rush)
+- Monorepo Management (Turborepo, Nx, Rush)
 - Containerization (Docker, Kubernetes)
 - CI/CD Pipelines (GitHub Actions, Jenkins)
 
@@ -28,10 +28,15 @@
 - **Media.net**: Optimized publisher dashboards, reducing load time by 30%
 - **Accenture**: Recipient of ACE Award for excellence in client delivery
 
-<!-- ## Featured Projects -->
+## Featured Projects
+
+- [shared-config](https://github.com/SaumikSarkar/shared-config)
 
 ## Development Principles
 - Clean Code Architecture
 - Test-Driven Development
 - Performance-First Approach
 - Documentation-Driven Development
+
+## How to Contribute  
+See [CONTRIBUTING.md](CONTRIBUTING.md) for technical standards and workflow.
